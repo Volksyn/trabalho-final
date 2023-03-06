@@ -1,0 +1,132 @@
+		h1{
+			font-family: serif;
+			text-align: center;
+			background: linear-gradient(#982eb2, #ba55d3, #b344cf);
+			color: #dcd0ff;
+
+		}
+
+		h2{
+			font-family: serif;
+			background: linear-gradient(#006b6b, #008f8f, #008080);
+			text-align: center;
+			color: #dcd0ff;
+		}
+
+		ol{
+			text-align: center;
+			list-style-position: inside;
+		}
+
+		h4{
+			font-family: serif;
+			font-size: 20px;
+			text-align: center;
+		}
+
+		body {
+			background-color: #dcd0ff;
+			width: 85%;
+			margin: auto;
+		}
+
+		section{
+			padding-left: 256px ;
+			padding-right: 256px;
+			padding-bottom: 64px ;
+			padding-top: 64px ;
+		}
+
+		li {
+			font-family: serif;
+			color: black;
+		}
+
+		a:visited {
+			color: black;
+		}
+		a:hover{
+			color: red;
+
+		}
+
+		.feit {
+			font-family: unset; 
+			color: #800080;
+			background: linear-gradient(#de7dda, #e496e1, #e189de);
+			text-align: center;
+		}
+
+		.lies {
+			font-family: unset; 
+			color: #006400;
+			background: linear-gradient(#2ebd2e, #3ed03e, #32cd32);
+			text-align: center;
+
+		}
+
+		.wind {
+			font-family: unset; 
+			color: #b8860b;
+			background: linear-gradient(#ffd3ad, #ffe1c7, #ffdab9);
+			text-align: center;
+		}
+
+		.thorn{
+			font-family: unset; 
+			color: #9b111e;
+			background: linear-gradient(#080808, #b8b8b8, #0f0f0f);
+			text-align: center;
+		}
+
+		.bell{
+			font-family: unset; 
+			color:  #fd5800;
+			background: linear-gradient(#e3a32b, #efca85, #e8b34f);
+			text-align: center;
+		}
+
+		img{
+			display: block;
+			width: 25%; 
+			height: 25%;
+			margin: auto;
+			align-content: center;
+
+		}
+
+		th {
+			font-family: serif;
+			background-color: #b79efe;
+		}
+
+		td {
+			font-family: serif;
+			background-color: #e3daff;
+			text-align: center;
+		}
+		td, th{
+			border-width: 3px;
+			border-style: solid;
+			border-color: #000000;
+			border-radius: 150px;
+		}
+
+		p {
+			font-family: serif;
+		}
+
+		span{
+			color: purple;
+		}
+		table{
+			width: 100%;
+		}
+		#l1, #l3, #l5{
+			background-color: #c6b2ff;
+			border-radius: 150px;
+		}
+		#l2, #l4{
+			background-color: #9b78ff;
+			border-radius: 150px;
+		}
